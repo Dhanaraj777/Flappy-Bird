@@ -1,0 +1,43 @@
+.container
+{
+    width: 500PX;
+    height: 730px;
+    position: absolute;
+   
+}
+
+.sky
+{
+    background-color: blue;
+    width: 500px;
+    height: 580px;
+    position: absolute;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.ground
+{
+    background-color: brown;
+    width: 500px;
+    height: 150px;
+    position:absolute;
+    top: 580px;
+}
+
+.bird
+{
+    background-color: yellow;
+    height: 45px;
+    width: 60px;
+    position: absolute;
+
+}
+
+.obstacle
+{
+    background-color: green;
+    height: 300px;
+    width: 60px;
+    position: absolute;
+}
